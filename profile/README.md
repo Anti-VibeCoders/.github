@@ -10,7 +10,7 @@ Un grupo de jóvenes devs con ganas de codear, mejorar y pasarla bien. No tenemo
 ## Nuestra web
 
 Si te animas a conocernos un poco más, ver quiénes somos, los proyectos que armamos o los canales donde nos movemos, date una vuelta por nuestra página:  
-👉 [anti-vibecoders.github.io](https://anti-vibecoders.github.io/Sintax-Page/)
+👉 [syntax-world-workspace.vercel.app](https://syntax-world-workspace.vercel.app)
 
 ## ¿Te interesa sumarte?
 
